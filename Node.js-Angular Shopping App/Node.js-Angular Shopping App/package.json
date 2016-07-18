@@ -1,0 +1,10 @@
+{
+  "name": "Node.js-Angular-Shopping-App",
+  "version": "0.0.0",
+  "description": "Node.js-Angular Shopping App",
+  "main": "server.js",
+  "author": {
+    "name": "Alok",
+    "email": ""
+  }
+}
