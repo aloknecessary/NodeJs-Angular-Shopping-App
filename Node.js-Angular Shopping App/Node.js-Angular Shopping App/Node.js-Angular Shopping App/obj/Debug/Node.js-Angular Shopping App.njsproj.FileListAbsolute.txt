@@ -1,0 +1,2 @@
+F:\Alok\NodeJs-AngularJs-Shopping-App\Node.js-Angular Shopping App\Node.js-Angular Shopping App\Node.js-Angular Shopping App\obj\Debug\Node.js-Angular Shopping App.njsprojResolveAssemblyReference.cache
+F:\Alok\NodeJs-AngularJs-Shopping-App\Node.js-Angular Shopping App\Node.js-Angular Shopping App\Node.js-Angular Shopping App\bin\Microsoft.NodejsTools.WebRole.dll
